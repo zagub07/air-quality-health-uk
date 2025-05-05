@@ -1,7 +1,6 @@
 
 
-# === From script7.R ===
-# Assume your merged dataset is called merged_air_health_data
+# Our merged dataset is called merged_air_asthma
 # It contains:
 # - NO2, PM10, PM25 concentrations
 # - Hospital Admissions (or Mortality Rate)
