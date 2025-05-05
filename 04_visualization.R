@@ -1,9 +1,9 @@
 
 
-# === From script9.R ===
+
 model_predictions <- predict(model)
 
-# 2. Create a dataframe using model$model
+# 1. Creating a dataframe using model$model
 results_df <- data.frame(
   Actual = model$model$Hospital_Admissions,
   Predicted = model_predictions
