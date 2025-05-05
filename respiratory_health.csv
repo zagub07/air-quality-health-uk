@@ -1,0 +1,13 @@
+"Region","Year","Hospital_Admissions","Mortality_Rate"
+"North East",2023,18200,63.4
+"North West",2023,26500,58.7
+"Yorkshire and Humber",2023,21300,55.2
+"East Midlands",2023,19400,52.1
+"West Midlands",2023,22700,54.8
+"East of England",2023,20600,48.9
+"London",2023,27100,45.1
+"South East",2023,25300,47.3
+"South West",2023,22100,50.2
+"Wales",2023,12800,58.9
+"Scotland",2023,16900,61.7
+"Northern Ireland",2023,8700,57.5
